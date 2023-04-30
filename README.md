@@ -1,24 +1,28 @@
+# Cybersecurity-Phishing
 
-# Desafio de projeto da DIO
+### DESCRIÇÃO
+Neste desafio de projeto da (DIO) Digital Innovation One na formação cybersecurity specialist, foi implementado um Phishing para captura de dados utilizando:
 
-# Phishing para captura de senhas do Facebook
-### Ferramentas
-- Kali Linux
-- setoolkit
-### Configurando o Phishing no Kali Linux
+- linguagens: Python, Shell script.
+- Sistema operacional: Windows.
+- Máquina virtual: Kali Linux.
+- Interpretador de comando: Bash.
+- Ferramenta: Setoolkit
+
+# Resutados
+
+![Alt text](./sucesso.png "Optional title")
+
+### Comandos digitados
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
-### Resutados
-![Alt text](./passwd.png "Optional title")
+- Inserir o IP da máquina virtual 
+- Se caso não souber o IP -> comando para saber o ip ``` ifconfig ```
+- URL para clone: -> site usado como alvo:  https://www.mirtesnet.com.br/
 
-# Meu resultado no site https://www.mirtesnet.com.br/
-
-![Alt text](./sucesso.png "Optional title")
-
-- Observação: Teste muito bem sucedido
+# Observação: 
+- Captura de dados: OK
