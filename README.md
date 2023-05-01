@@ -1,5 +1,5 @@
 <div align="center">
-  <b><h1>Cybersecurity-Phishing</h1></b>
+  <b><h1>Cybersecurity Phishing</h1></b>
   
 ![Alt text](./Phishing.png "Optional title")
 </div>
